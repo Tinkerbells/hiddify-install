@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hiddify
+Comment=Hiddify Client
+Exec=/usr/bin/hiddify-run
+Terminal=false
+Type=Application
+Icon=/usr/share/icons/hicolor/128x128/apps/hiddify.png
+Categories=Utility
+Keywords=hiddify
+StartupWMClass=Hiddify
+Actions=NewWindow
