@@ -36,7 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/https://github.com/Tinkerbells/hidd
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tinkerbells/hiddify-install
 cd hiddify
 ```
 
