@@ -5,7 +5,7 @@
 ## Быстрая установка (Linux)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/https://github.com/Tinkerbells/hiddify-install/hiddify/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Tinkerbells/hiddify-install/main/install.sh | bash
 ```
 
 ## Что устанавливается
@@ -36,7 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/https://github.com/Tinkerbells/hidd
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Tinkerbells/hiddify-install
+git clone <repository-url>
 cd hiddify
 ```
 
