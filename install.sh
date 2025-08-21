@@ -3,7 +3,7 @@
 set -e
 
 APPIMAGE_URL="https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage"
-BASE_URL="https://raw.githubusercontent.com/your-repo/hiddify/main"
+BASE_URL="https://raw.githubusercontent.com/Tinkerbells/hiddify-install/main"
 TEMP_DIR="/tmp/hiddify_install"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
